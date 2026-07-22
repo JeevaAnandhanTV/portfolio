@@ -98,12 +98,7 @@ export default function Connect() {
       <p className="connect__desc">
         I'm always open to discussing new opportunities and interesting projects.
       </p>
-      <p className="connect__note">
-        This form can send directly to jeevaanandhan503@gmail.com if EmailJS is configured.
-        Otherwise it will open your email client so you can send the message manually.
-      </p>
 
-   
       {status && <p className="connect__status">{status}</p>}
 
       <div className="connect__info">
