@@ -103,12 +103,7 @@ export default function Connect() {
         Otherwise it will open your email client so you can send the message manually.
       </p>
 
-      {!emailjsConfigured && (
-        <p className="connect__warning">
-          EmailJS is not configured. Automatic delivery is unavailable until the .env values are set.
-        </p>
-      )}
-
+   
       {status && <p className="connect__status">{status}</p>}
 
       <div className="connect__info">

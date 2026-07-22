@@ -2,13 +2,13 @@
   "name": "deena-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Deena2616.github.io/deena-portfolio",
+  "homepage": "https://JeevaAnandhanTV.github.io/portfolio",
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "framer-motion": "^11.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.7.0",
-    "@emailjs/browser": "^4.4.1",
     "react-scripts": "5.0.1"
   },
   "scripts": {
